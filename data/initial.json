@@ -1,0 +1,1770 @@
+[
+    {
+        "year": "2020",
+        "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=290",
+        "periods": [
+            {
+                "period": "Verano",
+                "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=288",
+                "content": [
+                    {
+                        "subject": "Exactas Programa",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1756"
+                    },
+                    {
+                        "subject": "Lógica y Computabilidad",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1750"
+                    },
+                    {
+                        "subject": "Organización del Computador 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1749"
+                    },
+                    {
+                        "subject": "Taller de Álgebra I",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1748"
+                    }
+                ]
+            },
+            {
+                "period": "Primer Cuatrimestre",
+                "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=289",
+                "content": [
+                    {
+                        "subject": "Ingeniería de Software 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1985"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructuras de Datos 1 - Teóricas",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1919"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructuras de Datos 1 - Turno Mañana",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1854"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructuras de Datos 1 - Turno Vespertino",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1833"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructuras de Datos 2 - Turno Mañana",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1846"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructuras de Datos 2 - Turno Vespertino",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1847"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructuras de Datos 3",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1829"
+                    },
+                    {
+                        "subject": "Arquitecturas de Aplicaciones Web",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1982"
+                    },
+                    {
+                        "subject": "Bases de Datos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1806"
+                    },
+                    {
+                        "subject": "Calidad de Datos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1841"
+                    },
+                    {
+                        "subject": "Elementos esenciales de programación para científicos en formación",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1751"
+                    },
+                    {
+                        "subject": "Ingeniería de Software 2",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1779"
+                    },
+                    {
+                        "subject": "Introducción a la Computación (para Matemática)",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1855"
+                    },
+                    {
+                        "subject": "La Programación y su Didáctica",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1859"
+                    },
+                    {
+                        "subject": "Métodos Numéricos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1844"
+                    },
+                    {
+                        "subject": "Organización del Computador 1 ",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1845"
+                    },
+                    {
+                        "subject": "Organización del Computador 2",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1790"
+                    },
+                    {
+                        "subject": "Paradigmas de Lenguajes de Programación",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1830"
+                    },
+                    {
+                        "subject": "Reconocimiento de Patrones",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1831"
+                    },
+                    {
+                        "subject": "Redes Neuronales",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1820"
+                    },
+                    {
+                        "subject": "Reglas de Asociación y Patrones Secuenciales",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1843"
+                    },
+                    {
+                        "subject": "Seguridad de la Información",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1981"
+                    },
+                    {
+                        "subject": "Sistemas Operativos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1858"
+                    },
+                    {
+                        "subject": "Taller de Álgebra I",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1870"
+                    },
+                    {
+                        "subject": "Taller de Informática",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1807"
+                    },
+                    {
+                        "subject": "Teoría de las Comunicaciones",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1906"
+                    },
+                    {
+                        "subject": "Teoría de Lenguajes",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1904"
+                    },
+                    {
+                        "subject": "Tipos Comportamentales y Contratos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1959"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2019",
+        "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=261",
+        "periods": [
+            {
+                "period": "Verano",
+                "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=259",
+                "content": [
+                    {
+                        "subject": "Exactas Programa",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1441"
+                    },
+                    {
+                        "subject": "Lógica y Computabilidad",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1438"
+                    },
+                    {
+                        "subject": "Organización del Computador 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1457"
+                    },
+                    {
+                        "subject": "Paradigmas de Lenguajes de Programación",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1437"
+                    },
+                    {
+                        "subject": "Taller de Álgebra I",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1440"
+                    }
+                ]
+            },
+            {
+                "period": "1er Cuatrimestre",
+                "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=260",
+                "content": [
+                    {
+                        "subject": "Algoritmos y Estructuras de Datos 1 - Turno Mañana",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1460"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructuras de Datos 1 - Turno Vespertino",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1479"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructuras de Datos 2 - Turno Mañana",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1480"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructuras de Datos 2 - Turno Vespertino",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1481"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructuras de Datos 3",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1465"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructuras de Datos Avanzadas",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1472"
+                    },
+                    {
+                        "subject": "Arquitectura y Comunicación de Datos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1471"
+                    },
+                    {
+                        "subject": "Arquitecturas de Aplicaciones Web",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1475"
+                    },
+                    {
+                        "subject": "Aspectos Éticos en Inteligencia Artificial",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1477"
+                    },
+                    {
+                        "subject": "Bases de Datos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1482"
+                    },
+                    {
+                        "subject": "Calidad de Datos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1512"
+                    },
+                    {
+                        "subject": "Ingeniería de Software 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1483"
+                    },
+                    {
+                        "subject": "Ingeniería de Software 2",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1467"
+                    },
+                    {
+                        "subject": "Introducción a la Computación (para Matemática)",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1488"
+                    },
+                    {
+                        "subject": "Introducción al Procesamiento de Lenguaje Natural",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1565"
+                    },
+                    {
+                        "subject": "Investigación Operativa",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1478"
+                    },
+                    {
+                        "subject": "La Programación y su Didáctica 2",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1561"
+                    },
+                    {
+                        "subject": "Métodos Numéricos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1484"
+                    },
+                    {
+                        "subject": "Organización del Computador 1 - Turno Mañana",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1486"
+                    },
+                    {
+                        "subject": "Organización del Computador 1 - Turno Vespertino",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1496"
+                    },
+                    {
+                        "subject": "Organización del Computador 2",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1464"
+                    },
+                    {
+                        "subject": "Paradigmas de Lenguajes de Programación",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1489"
+                    },
+                    {
+                        "subject": "Reconocimiento de Patrones",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1476"
+                    },
+                    {
+                        "subject": "Redes Neuronales",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1474"
+                    },
+                    {
+                        "subject": "Reglas de Asociación y Patrones Secuenciales",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1469"
+                    },
+                    {
+                        "subject": "Seguridad de la Información",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1473"
+                    },
+                    {
+                        "subject": "Sistemas Operativos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1490"
+                    },
+                    {
+                        "subject": "Sobre Cambios de Creencias",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1494"
+                    },
+                    {
+                        "subject": "Taller de Álgebra I",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1491"
+                    },
+                    {
+                        "subject": "Taller de Informática",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1495"
+                    },
+                    {
+                        "subject": "Teoría de las Comunicaciones",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1466"
+                    },
+                    {
+                        "subject": "Teoría de Lenguajes",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1493"
+                    }
+                ]
+            },
+            {
+                "period": "ECI 2019",
+                "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=274",
+                "content": [
+                    {
+                        "subject": "Aprendizaje profundo por refuerzo",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1599"
+                    },
+                    {
+                        "subject": "Clasificadores Probabilísticos en Aprendizaje Automático",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1598"
+                    },
+                    {
+                        "subject": "Complex Network: Theory and Applications",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1603"
+                    },
+                    {
+                        "subject": "Computación Cuántica y física digital",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1604"
+                    },
+                    {
+                        "subject": "Development and Automated Testing of RESTful APIs",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1607"
+                    },
+                    {
+                        "subject": "Formal Verification with F* and Meta-F*",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1605"
+                    },
+                    {
+                        "subject": "Introduction to steganography and watermarking",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1601"
+                    },
+                    {
+                        "subject": "Procesamiento del lenguaje natural con redes neuronales",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1600"
+                    },
+                    {
+                        "subject": "Sistemas de monitorización de datos basados en IoT",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1606"
+                    },
+                    {
+                        "subject": "λ-Calculus and Reasonable Cost Models",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1602"
+                    }
+                ]
+            },
+            {
+                "period": "2do Cuatrimestre",
+                "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=261",
+                "content": [
+                    {
+                        "subject": "Algoritmos y Estructura de Datos 1 - Turno Mañana",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1624"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructura de Datos 1 - Turno Vespertino",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1625"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructura de Datos 2 - Turno Mañana",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1626"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructura de Datos 2 - Turno Vespertino",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1627"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructura de Datos 3",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1628"
+                    },
+                    {
+                        "subject": "Analisis y Sintesis Automatico de Programas",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1657"
+                    },
+                    {
+                        "subject": "Aprendizaje Profundo / Redes Neuronales Profundas",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1663"
+                    },
+                    {
+                        "subject": "Aspectos Computacionales de Programación Lineal Entera",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1668"
+                    },
+                    {
+                        "subject": "Azar y Autómatas",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1662"
+                    },
+                    {
+                        "subject": "Bases de Datos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1629"
+                    },
+                    {
+                        "subject": "Capacity Planning para Aplicaciones de Gran Escala: Simulación, Análisis y Aprendizaje Automático",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1567"
+                    },
+                    {
+                        "subject": "Compilación y Optimización de código usando LLVM",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1572"
+                    },
+                    {
+                        "subject": "Exactas Programa",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1584"
+                    },
+                    {
+                        "subject": "Generación Automática de Casos de Test",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1658"
+                    },
+                    {
+                        "subject": "Ingeniería de Software 2",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1630"
+                    },
+                    {
+                        "subject": "Introducción a la Computación (Biológos)",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1588"
+                    },
+                    {
+                        "subject": "Introducción a la Neurociencia Cognitiva y Computacional",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1719"
+                    },
+                    {
+                        "subject": "La Programación y su Didáctica",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1703"
+                    },
+                    {
+                        "subject": "Lógica y Computabilidad",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1631"
+                    },
+                    {
+                        "subject": "Lógicas modales",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1664"
+                    },
+                    {
+                        "subject": "Métodos Numéricos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1632"
+                    },
+                    {
+                        "subject": "Organización del Computador 1 - Turno Mañana",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1633"
+                    },
+                    {
+                        "subject": "Organización del Computador 1 - Turno Vespertino",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1634"
+                    },
+                    {
+                        "subject": "Organización del Computador 2",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1635"
+                    },
+                    {
+                        "subject": "Paradigmas de Lenguajes de Programación",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1636"
+                    },
+                    {
+                        "subject": "Problemas, Algoritmos y Programación",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1665"
+                    },
+                    {
+                        "subject": "Procesamiento de Señales",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1666"
+                    },
+                    {
+                        "subject": "Procesamiento del Habla",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1667"
+                    },
+                    {
+                        "subject": "Redes, Sociedad y Economía",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1659"
+                    },
+                    {
+                        "subject": "Reescritura, Calculo Lambda y Sustituciones Explícitas",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1661"
+                    },
+                    {
+                        "subject": "Simulación de Eventos Discretos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1660"
+                    },
+                    {
+                        "subject": "Sistemas Operativos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1637"
+                    },
+                    {
+                        "subject": "Taller de Álgebra I",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1638"
+                    },
+                    {
+                        "subject": "Taller de Informática",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1699"
+                    },
+                    {
+                        "subject": "Técnicas de aprendizaje maquinal para BCI: un enfoque estadístico",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1566"
+                    },
+                    {
+                        "subject": "Teoría de las Comunicaciones",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1639"
+                    },
+                    {
+                        "subject": "Teoría de Lenguajes",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1640"
+                    },
+                    {
+                        "subject": "Tópicos de Programación para Científicos Computacionales",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1587"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=207",
+        "periods": [
+            {
+                "period": "Verano",
+                "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=205",
+                "content": [
+                    {
+                        "subject": "Exactas Programa",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1129"
+                    },
+                    {
+                        "subject": "Lógica y Computabilidad",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1057"
+                    },
+                    {
+                        "subject": "Organización del Computador 1 ",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1058"
+                    },
+                    {
+                        "subject": "Paradigmas de Lenguajes de Programación",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1059"
+                    },
+                    {
+                        "subject": "Procesamiento del Lenguaje Natural",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1024"
+                    },
+                    {
+                        "subject": "Taller de Álgebra I",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1095"
+                    }
+                ]
+            },
+            {
+                "period": "1er Cuatrimestre",
+                "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=206",
+                "content": [
+                    {
+                        "subject": "Algoritmos y Estructura de Datos 1 - Turno Mañana",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=987"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructura de Datos 1 - Turno Vespertino",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=991"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructura de Datos 2 - Turno Mañana",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=989"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructura de Datos 2 - Turno Vespertino",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=990"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructura de Datos 3",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=992"
+                    },
+                    {
+                        "subject": "Analisis y Sintesis Automatico de Programas",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1017"
+                    },
+                    {
+                        "subject": "Arquitectura y Comunicación de Datos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1025"
+                    },
+                    {
+                        "subject": "Azar y Autómatas",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1026"
+                    },
+                    {
+                        "subject": "Bases de Datos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1001"
+                    },
+                    {
+                        "subject": "Ingeniería de Software 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1039"
+                    },
+                    {
+                        "subject": "Ingeniería de Software 2",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1003"
+                    },
+                    {
+                        "subject": "Integración de Bases de Conocimiento",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1027"
+                    },
+                    {
+                        "subject": "Introducción a la Computación (Matemáticos)",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1010"
+                    },
+                    {
+                        "subject": "Introducción a la Robótica Móvil",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1028"
+                    },
+                    {
+                        "subject": "Investigación Operativa",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1301"
+                    },
+                    {
+                        "subject": "Métodos Numéricos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=993"
+                    },
+                    {
+                        "subject": "Organización del Computador 1 - Turno Mañana",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1100"
+                    },
+                    {
+                        "subject": "Organización del Computador 1 - Turno Vespertino",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=997"
+                    },
+                    {
+                        "subject": "Organización del Computador 2",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=998"
+                    },
+                    {
+                        "subject": "Paradigmas de Lenguajes de Programación",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=995"
+                    },
+                    {
+                        "subject": "Problemas de Grafos y Tratabilidad Computacional",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1284"
+                    },
+                    {
+                        "subject": "Procesamiento de Señales",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1029"
+                    },
+                    {
+                        "subject": "Protegiendo la privacidad de datos mediante el uso de lenguajes de programación",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1413"
+                    },
+                    {
+                        "subject": "Reconocimiento de Patrones",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1008"
+                    },
+                    {
+                        "subject": "Redes Neuronales",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1302"
+                    },
+                    {
+                        "subject": "Seguridad de la Información",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1247"
+                    },
+                    {
+                        "subject": "Seminario Avanzado sobre Modelos y Algoritmos para el Análisis de Sistemas",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1030"
+                    },
+                    {
+                        "subject": "Sistemas Operativos 2018 - 1C",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=999"
+                    },
+                    {
+                        "subject": "Taller de Álgebra I",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1002"
+                    },
+                    {
+                        "subject": "Taller de Informática 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1011"
+                    },
+                    {
+                        "subject": "Teoría de las Comunicaciones",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1000"
+                    },
+                    {
+                        "subject": "Teoría de Lenguajes",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=996"
+                    }
+                ]
+            },
+            {
+                "period": "2do Cuatrimestre",
+                "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=207",
+                "content": [
+                    {
+                        "subject": "Algoritmos y Estructura de Datos 1 - Turno Mañana",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1401"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructura de Datos 1 - Turno Vespertino",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1403"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructura de Datos 2 - Turno Mañana",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1360"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructura de Datos 2 - Turno Vespertino",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1361"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructura de Datos 3",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1411"
+                    },
+                    {
+                        "subject": "Análisis de Algoritmos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1320"
+                    },
+                    {
+                        "subject": "Aprendizaje Automático",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1031"
+                    },
+                    {
+                        "subject": "Aprendizaje Profundo / Redes Neuronales Profundas",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1303"
+                    },
+                    {
+                        "subject": "Aprendizaje profundo para el análisis de imágenes biomédicas",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1435"
+                    },
+                    {
+                        "subject": "Azar y Autómatas",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1311"
+                    },
+                    {
+                        "subject": "Bases de Datos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1399"
+                    },
+                    {
+                        "subject": "Ciencia de Datos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1036"
+                    },
+                    {
+                        "subject": "Exactas Programa",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1323"
+                    },
+                    {
+                        "subject": "Generación Automática de Casos de Test",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1033"
+                    },
+                    {
+                        "subject": "Ingeniería de Software 2",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1414"
+                    },
+                    {
+                        "subject": "Introducción a la Computación (Biológos)",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1009"
+                    },
+                    {
+                        "subject": "Introducción a la Neurociencia Cognitiva y Computacional",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1310"
+                    },
+                    {
+                        "subject": "La Programación y su Didáctica 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1405"
+                    },
+                    {
+                        "subject": "Lógica y Computabilidad",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1371"
+                    },
+                    {
+                        "subject": "Metaheurísticas",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1312"
+                    },
+                    {
+                        "subject": "Métodos Numéricos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1380"
+                    },
+                    {
+                        "subject": "Organización del Computador 1 - Turno Mañana",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1410"
+                    },
+                    {
+                        "subject": "Organización del Computador 1 - Turno Vespertino",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1369"
+                    },
+                    {
+                        "subject": "Organización del Computador 2",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1370"
+                    },
+                    {
+                        "subject": "Paradigmas de Lenguajes de Programación",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1372"
+                    },
+                    {
+                        "subject": "Problemas, Algoritmos y Programación",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1034"
+                    },
+                    {
+                        "subject": "Redes, Sociedad y Economía",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1314"
+                    },
+                    {
+                        "subject": "Reescritura, Calculo Lambda y Sustituciones Explícitas",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1315"
+                    },
+                    {
+                        "subject": "Reglas de Asociación y Patrones Secuenciales",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1316"
+                    },
+                    {
+                        "subject": "Seminario de programación lineal entera",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1032"
+                    },
+                    {
+                        "subject": "Seminario sobre Algoritmos de Análisis de Secuencias Biológicas",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1317"
+                    },
+                    {
+                        "subject": "Simulación de Eventos Discretos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1308"
+                    },
+                    {
+                        "subject": "Sistemas Operativos 2018 - 2C",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1347"
+                    },
+                    {
+                        "subject": "Sobre Cambios de Creencias",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1318"
+                    },
+                    {
+                        "subject": "Taller de Álgebra I",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1377"
+                    },
+                    {
+                        "subject": "Taller de Informática 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1392"
+                    },
+                    {
+                        "subject": "Teoría de las Comunicaciones",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1412"
+                    },
+                    {
+                        "subject": "Teoría de Lenguajes",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1398"
+                    },
+                    {
+                        "subject": "Tópicos de Programación para Científicos Computacionales",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1348"
+                    },
+                    {
+                        "subject": "Visión por Computadora",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1035"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=203",
+        "periods": [
+            {
+                "period": "Verano",
+                "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=238",
+                "content": [
+                    {
+                        "subject": "Taller de Álgebra 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1245"
+                    },
+                    {
+                        "subject": "Lógica y Computabilidad",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1242"
+                    }
+                ]
+            },
+            {
+                "period": "1er Cuatrimestre",
+                "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=208",
+                "content": [
+                    {
+                        "subject": "Algoritmos y Estructuras de Datos I",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1085"
+                    },
+                    {
+                        "subject": "Algoritmos y Esturctura de Datos II",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1086"
+                    },
+                    {
+                        "subject": "Bases de Datos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1087"
+                    },
+                    {
+                        "subject": "Generación Autmática de Casos de Test",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1296"
+                    },
+                    {
+                        "subject": "Introducción a la Computación (matemáticos)",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1253"
+                    },
+                    {
+                        "subject": "Organización del Computador I",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1088"
+                    },
+                    {
+                        "subject": "Organización del Computador II",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1089"
+                    },
+                    {
+                        "subject": "Paradigmas de Lenguajes de Programación",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1090"
+                    },
+                    {
+                        "subject": "Procesamiento del Habla",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1007"
+                    },
+                    {
+                        "subject": "Programación Concurrente",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1295"
+                    },
+                    {
+                        "subject": "Reconocimiento de Patrones",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1257"
+                    },
+                    {
+                        "subject": "Sistemas Complejos en Maquinas Paralelas",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1015"
+                    },
+                    {
+                        "subject": "Sistemas Operativos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1091"
+                    },
+                    {
+                        "subject": "Taller de Algebra I",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1092"
+                    },
+                    {
+                        "subject": "Taller de Informática 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1288"
+                    },
+                    {
+                        "subject": "Teoría de las Comunicaciones",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1094"
+                    },
+                    {
+                        "subject": "Teoría de Lenguajes",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1093"
+                    }
+                ]
+            },
+            {
+                "period": "2do Cuatrimestre",
+                "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=203",
+                "content": [
+                    {
+                        "subject": "Algoritmos y Estructura de Datos 1 - Turno Mañana",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1040"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructura de Datos 1 - Turno Vespertino",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1041"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructura de Datos 2 - Turno Mañana",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1042"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructura de Datos 2 - Turno Vespertino - 2c2017",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1043"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructura de Datos 3",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1044"
+                    },
+                    {
+                        "subject": "Bases de Datos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1045"
+                    },
+                    {
+                        "subject": "Ciencia de Datos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1298"
+                    },
+                    {
+                        "subject": "Especificación y Complejidad en el Calculo Científico: Teoría y Arte",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1252"
+                    },
+                    {
+                        "subject": "Ingeniería de Software 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1046"
+                    },
+                    {
+                        "subject": "Ingeniería de Software 2",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1047"
+                    },
+                    {
+                        "subject": "Introducción a la Computación (Químicos, Físicos, Meteorólogos, Biólogos y disciplinas afines)",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1254"
+                    },
+                    {
+                        "subject": "Introducción al Procesamiento Digital de Imágenes",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1246"
+                    },
+                    {
+                        "subject": "Lógica y Computabilidad",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1048"
+                    },
+                    {
+                        "subject": "Lógicas modales",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1006"
+                    },
+                    {
+                        "subject": "Metaheurísticas",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1243"
+                    },
+                    {
+                        "subject": "Métodos Numéricos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1049"
+                    },
+                    {
+                        "subject": "Organización del Computador 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1050"
+                    },
+                    {
+                        "subject": "Organización del Computador 2",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1051"
+                    },
+                    {
+                        "subject": "Paradigmas de Lenguajes de Programación",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1052"
+                    },
+                    {
+                        "subject": "Programación Paralela y Big Data",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1415"
+                    },
+                    {
+                        "subject": "Redes Neuronales Profundas",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1244"
+                    },
+                    {
+                        "subject": "Seminario de temas de análisis de programas",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1005"
+                    },
+                    {
+                        "subject": "Simulación de Eventos Discretos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1004"
+                    },
+                    {
+                        "subject": "Sistemas Operativos 2017 - 2C",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1053"
+                    },
+                    {
+                        "subject": "Taller de Álgebra I",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1054"
+                    },
+                    {
+                        "subject": "Taller de Informática 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1287"
+                    },
+                    {
+                        "subject": "Teoría de las Comunicaciones",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1055"
+                    },
+                    {
+                        "subject": "Teoría de Lenguajes 2017 - 2C",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1056"
+                    },
+                    {
+                        "subject": "Topics in Automata Theory",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1037"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=222",
+        "periods": [
+            {
+                "period": "Verano",
+                "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=231",
+                "content": [
+                    {
+                        "subject": "Lógica y Computabilidad",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1208"
+                    },
+                    {
+                        "subject": "Grafos y (semi)ordenes",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1195"
+                    },
+                    {
+                        "subject": "Organización del Computador 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1202"
+                    },
+                    {
+                        "subject": "Taller Álgebra 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1203"
+                    }
+                ]
+            },
+            {
+                "period": "1er Cuatrimestre",
+                "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=216",
+                "content": [
+                    {
+                        "subject": "Algoritmos y Estructuras de Datos 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1162"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructuras de Datos 2",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1163"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructuras de Datos 3",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1164"
+                    },
+                    {
+                        "subject": "Bases de Datos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1171"
+                    },
+                    {
+                        "subject": "Diseño de Sistemas con FPGA",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1019"
+                    },
+                    {
+                        "subject": "Ingeniería de Software 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1166"
+                    },
+                    {
+                        "subject": "Introducción a la Computación (para Matemática)",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1177"
+                    },
+                    {
+                        "subject": "Introducción a la Computación (Químicos, Físicos, Meteorólogos, Biológos y disciplinas afines)",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1176"
+                    },
+                    {
+                        "subject": "Introducción al Análisis Formal de Normas Legales",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1173"
+                    },
+                    {
+                        "subject": "Logicas Modales",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1178"
+                    },
+                    {
+                        "subject": "Organización del Computador 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1165"
+                    },
+                    {
+                        "subject": "Paradigmas de Lenguajes de Programación",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1167"
+                    },
+                    {
+                        "subject": "Reconocimiento de Patrones",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1175"
+                    },
+                    {
+                        "subject": "Seminario sobre Computación, Ciencia y Sociedad en Argentina",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1174"
+                    },
+                    {
+                        "subject": "Sistemas Operativos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1168"
+                    },
+                    {
+                        "subject": "Taller de Álgebra 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1172"
+                    },
+                    {
+                        "subject": "Taller de Informática 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1290"
+                    },
+                    {
+                        "subject": "Teoría de las Comunicaciones",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1170"
+                    },
+                    {
+                        "subject": "Teoría de Lenguajes",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1169"
+                    }
+                ]
+            },
+            {
+                "period": "2do Cuatrimestre",
+                "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=222",
+                "content": [
+                    {
+                        "subject": "Algoritmos y Estructuras de Datos 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1179"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructuras de Datos 2",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1180"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructuras de Datos 3",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1181"
+                    },
+                    {
+                        "subject": "Aprendizaje Automático",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1193"
+                    },
+                    {
+                        "subject": "Bases de Datos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1182"
+                    },
+                    {
+                        "subject": "Generación Automática de Casos de Test",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1194"
+                    },
+                    {
+                        "subject": "Introducción a la Neurociencia Cognitiva y Computacional",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1196"
+                    },
+                    {
+                        "subject": "Introducción a la Robótica Movil",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1197"
+                    },
+                    {
+                        "subject": "Introducción al Análisis de Datos usando Python",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1297"
+                    },
+                    {
+                        "subject": "Logica y Computabilidad",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1183"
+                    },
+                    {
+                        "subject": "Organización del Computador 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1184"
+                    },
+                    {
+                        "subject": "Paradigmas de Lenguajes de Programación",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1188"
+                    },
+                    {
+                        "subject": "Problemas, algoritmos y programación",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1198"
+                    },
+                    {
+                        "subject": "Seminario Avanzado de Teoría de Grafos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1248"
+                    },
+                    {
+                        "subject": "Seminario de Analisis de Programas",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1201"
+                    },
+                    {
+                        "subject": "Seminario de Sintesis de Controladores",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1199"
+                    },
+                    {
+                        "subject": "Simulación de Eventos Discretos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1200"
+                    },
+                    {
+                        "subject": "Sistemas Operativos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1189"
+                    },
+                    {
+                        "subject": "Taller de Álgebra 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1192"
+                    },
+                    {
+                        "subject": "Taller de Informática 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1289"
+                    },
+                    {
+                        "subject": "Teoría de las Comunicaciones",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1190"
+                    },
+                    {
+                        "subject": "Teoría de Lenguajes",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1191"
+                    },
+                    {
+                        "subject": "Visión por Máquina: Aplicaciones en Robótica",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1416"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=234",
+        "periods": [
+            {
+                "period": "Verano",
+                "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=232",
+                "content": [
+                    {
+                        "subject": "Lógica y Computabilidad",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1209"
+                    },
+                    {
+                        "subject": "Organización del Computador 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1204"
+                    },
+                    {
+                        "subject": "Taller Álgebra 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1205"
+                    }
+                ]
+            },
+            {
+                "period": "1er Cuatrimestre",
+                "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=233",
+                "content": [
+                    {
+                        "subject": "Algoritmos y Estructuras de Datos 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1211"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructuras de Datos 2",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1212"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructuras de Datos 3",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1213"
+                    },
+                    {
+                        "subject": "Análisis y Síntesis Automático de Programas",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1221"
+                    },
+                    {
+                        "subject": "Big Data, una perspectiva desde la práctica",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1417"
+                    },
+                    {
+                        "subject": "Diseño de Sistemas con FPGA",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1222"
+                    },
+                    {
+                        "subject": "Inferencia Bayesiana con aplicaciones en Ciencias Cognitivas",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1223"
+                    },
+                    {
+                        "subject": "Organización del Computador 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1214"
+                    },
+                    {
+                        "subject": "Paradigmas de Lenguajes de Programación",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1215"
+                    },
+                    {
+                        "subject": "Sistemas Operativos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1216"
+                    },
+                    {
+                        "subject": "Taller de Álgebra 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1220"
+                    },
+                    {
+                        "subject": "Teoría de las Comunicaciones",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1218"
+                    },
+                    {
+                        "subject": "Teoría de Lenguajes",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1219"
+                    }
+                ]
+            },
+            {
+                "period": "2do Cuatrimestre",
+                "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=234",
+                "content": [
+                    {
+                        "subject": "Algoritmos y Estructuras de Datos 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1224"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructuras de Datos 2",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1225"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructuras de Datos 3",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1226"
+                    },
+                    {
+                        "subject": "Aprendizaje Automático",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1234"
+                    },
+                    {
+                        "subject": "Co-Diseño Hw-Sw usando FPGA",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1235"
+                    },
+                    {
+                        "subject": "Introducción a la Combinatoria Analítica",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1418"
+                    },
+                    {
+                        "subject": "Introducción a la Neurociencia Cognitiva y Computacional",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1236"
+                    },
+                    {
+                        "subject": "Lógica y Computabilidad",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1227"
+                    },
+                    {
+                        "subject": "Organización del Computador 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1228"
+                    },
+                    {
+                        "subject": "Paradigmas de Lenguajes de Programación",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1229"
+                    },
+                    {
+                        "subject": "Simulación de Eventos Discretos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1237"
+                    },
+                    {
+                        "subject": "Sistemas Complejos en Maquinas Paralelas",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1238"
+                    },
+                    {
+                        "subject": "Sistemas Operativos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1230"
+                    },
+                    {
+                        "subject": "Taller de Álgebra 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1233"
+                    },
+                    {
+                        "subject": "Teoría de las Comunicaciones",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1231"
+                    },
+                    {
+                        "subject": "Teoría de Lenguajes",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1232"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2014",
+        "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=237",
+        "periods": [
+            {
+                "period": "Verano",
+                "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=235",
+                "content": [
+                    {
+                        "subject": "Lógica y Computabilidad",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1210"
+                    },
+                    {
+                        "subject": "Organización del Computador 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1207"
+                    },
+                    {
+                        "subject": "Taller Álgebra 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1206"
+                    }
+                ]
+            },
+            {
+                "period": "1er Cuatrimestre",
+                "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=236",
+                "content": [
+                    {
+                        "subject": "Algoritmos y Estructuras de Datos 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1239"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructuras de Datos 2",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1240"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructuras de Datos 3",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1241"
+                    },
+                    {
+                        "subject": "Computación movil",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1251"
+                    },
+                    {
+                        "subject": "Organización del Computador 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1269"
+                    },
+                    {
+                        "subject": "Paradigmas de Lenguajes de Programación",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1270"
+                    },
+                    {
+                        "subject": "Reconocimiento de Patrones",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1265"
+                    },
+                    {
+                        "subject": "Sistemas Operativos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1271"
+                    },
+                    {
+                        "subject": "Taller Álgebra 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1274"
+                    },
+                    {
+                        "subject": "Teoría de las Comunicaciones",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1272"
+                    },
+                    {
+                        "subject": "Teoría de Lenguajes",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1273"
+                    }
+                ]
+            },
+            {
+                "period": "2do Cuatrimestre",
+                "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=237",
+                "content": [
+                    {
+                        "subject": "Algoritmos y Estructuras de Datos 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1276"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructuras de Datos 2",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1277"
+                    },
+                    {
+                        "subject": "Algoritmos y Estructuras de Datos 3",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1278"
+                    },
+                    {
+                        "subject": "Diseño de Sistemas con FPGA",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1267"
+                    },
+                    {
+                        "subject": "Introducción al Análisis Formal de Normas Legales",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1266"
+                    },
+                    {
+                        "subject": "Lógica y Computabilidad",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1268"
+                    },
+                    {
+                        "subject": "Organización del Computador 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1279"
+                    },
+                    {
+                        "subject": "Paradigmas de Lenguajes de Programación",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1280"
+                    },
+                    {
+                        "subject": "Robótica Móvil Avanzada (Advanced Mobile Robotics)",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1419"
+                    },
+                    {
+                        "subject": "Seminario sobre Computación, Ciencia y Sociedad en Argentina",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1263"
+                    },
+                    {
+                        "subject": "Sistemas Complejos en Máquinas Paralelas",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1264"
+                    },
+                    {
+                        "subject": "Sistemas Operativos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1281"
+                    },
+                    {
+                        "subject": "Taller de Álgebra 1",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1275"
+                    },
+                    {
+                        "subject": "Teoría de las Comunicaciones",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1282"
+                    },
+                    {
+                        "subject": "Teoría de Lenguajes",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1283"
+                    },
+                    {
+                        "subject": "Visión en Robótica",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1262"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2013",
+        "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=246",
+        "periods": [
+            {
+                "period": "1er Cuatrimestre",
+                "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=243",
+                "content": [
+                    {
+                        "subject": "Introducción a la Fotografía 3D",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1420"
+                    },
+                    {
+                        "subject": "Planificación en Sistemas Inteligentes: Comportamiento Autónomo Basado en Modelos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1255"
+                    },
+                    {
+                        "subject": "Planificación en Sistemas Inteligentes: Comportamiento Autónomo Basado en Modelos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1421"
+                    }
+                ]
+            },
+            {
+                "period": "2do Cuatrimestre",
+                "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=246",
+                "content": [
+                    {
+                        "subject": "Introducción al Procesamiento de Imágenes Médicas",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1422"
+                    },
+                    {
+                        "subject": "Programación Lineal Entera",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1285"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=255",
+        "periods": [
+            {
+                "period": "1er Cuatrimestre",
+                "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=241",
+                "content": [
+                    {
+                        "subject": "Aprendizaje por Refuerzos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1424"
+                    },
+                    {
+                        "subject": "Compresión de Imágenes Digitales",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1250"
+                    },
+                    {
+                        "subject": "Programación Orientada a Objetos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1294"
+                    },
+                    {
+                        "subject": "Sistemas Distribuidos de Gran Escala",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1426"
+                    },
+                    {
+                        "subject": "Teoría de Pruebas para Lenguajes de Programación",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1259"
+                    },
+                    {
+                        "subject": "Validación y Verificación Automatizada",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1261"
+                    }
+                ]
+            },
+            {
+                "period": "2do Cuatrimestre",
+                "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=255",
+                "content": [
+                    {
+                        "subject": "Análisis de performance de sistemas distribuidos de tiempo real",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1423"
+                    },
+                    {
+                        "subject": "De la Bioinformática a la Biología Computacional de Sistemas y Sintética",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1429"
+                    },
+                    {
+                        "subject": "Herramientas Computacionales en Neurociencias",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1430"
+                    },
+                    {
+                        "subject": "Introducción al Procesamiento de Imágenes Médicas",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1427"
+                    },
+                    {
+                        "subject": "Modelado y simulación de sistemas físicos complejos con Parallel Cell-DEVS",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1428"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=212",
+        "periods": [
+            {
+                "period": "Verano",
+                "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=239",
+                "content": [
+                    {
+                        "subject": "Algoritmos en Bioinformática",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1249"
+                    }
+                ]
+            },
+            {
+                "period": "1er Cuatrimestre",
+                "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=244",
+                "content": [
+                    {
+                        "subject": "Programación de Sistemas Operativos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1256"
+                    }
+                ]
+            },
+            {
+                "period": "2do Cuatrimestre",
+                "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=212",
+                "content": [
+                    {
+                        "subject": "Arquitectura de Computadoras",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1431"
+                    },
+                    {
+                        "subject": "Compresion de Audio y Video",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1018"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2010",
+        "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=214",
+        "periods": [
+            {
+                "period": "2do Cuatrimestre",
+                "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=214",
+                "content": [
+                    {
+                        "subject": "Computabilidad y Teoría de Modelos",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1038"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2008",
+        "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=248",
+        "periods": [
+            {
+                "period": "2do Cuatrimestre",
+                "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=248",
+                "content": [
+                    {
+                        "subject": "Modelos y Sistemas",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1286"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2007",
+        "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=210",
+        "periods": [
+            {
+                "period": "1er Cuatrimestre",
+                "href": "https://campus.exactas.uba.ar/course/index.php?categoryid=210",
+                "content": [
+                    {
+                        "subject": "Tópicos de Bases de Datos en la Web",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1260"
+                    },
+                    {
+                        "subject": "Tecnologías y conceptos de Arquitectura de Software",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1258"
+                    },
+                    {
+                        "subject": "Aplicaciones Escalables en Redes Globales",
+                        "href": "https://campus.exactas.uba.ar/course/view.php?id=1020"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+{
+  "name": "scrapuba",
+  "version": "1.0.0",
+  "description": "Scrapper to get information and available public resources from the UBA's Virtual Campus.",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "download": "node download.js"
+  },
+  "engines": {
+    "node": "12.18.1"
+  },
+  "keywords": [
+    "scrapper",
+    "uba",
+    "university",
+    "virtual-campus",
+    "public-knowledge",
+    "computer-science"
+  ],
+  "author": "Leandro Echevarria <echevarrialeandro@gmail.com>",
+  "license": "MIT"
+}
