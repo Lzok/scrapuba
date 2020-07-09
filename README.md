@@ -103,7 +103,7 @@ npm run download
 No me gusta la cantidad de `for` que hay, pero era la forma rápida de *get the thing working right now.*
 - Agregar linters y formateador de código. En la pc que hice este proyecto no tengo nada configurado.
 - Generar una serie de scripts por si se quisiera ejecutar el proceso completo de una sola vez, o bien solamente la parte de descargas.
-- Cambiar los `console.log` por Winston como sistema de logging.
+- ~~Cambiar los `console.log` por Winston como sistema de logging.~~
 - Hacer el error handling correspondiente.
 - Añadir opción de loguearse en caso de tener cuenta en el campus? Al ser automático pongo en duda proveer credenciales.
 - Permitir configuraciones externas como pueden ser arrancar el bot en modo headless, cambiar la ruta de descargas por default, etc.
