@@ -97,6 +97,12 @@ npm i
 npm run download
 ```
 
+En caso de querer enviar los logs a un archivo aparte, utilizar
+
+```
+npm run download >> app.log
+```
+
 ## Proximos pasos
 
 - Refactorizar código para centralizar los selectores usados y usarlos como constantes. También hay código repetido que se puede centralizar en funciones comunes.
