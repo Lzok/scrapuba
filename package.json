@@ -7,9 +7,17 @@
     "pino": "^6.3.2",
     "puppeteer": "^4.0.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint": "^7.4.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "prettier": "^2.0.5"
+  },
   "scripts": {
-    "download": "node download.js"
+    "download": "node download.js",
+    "lint": "./node_modules/.bin/eslint --fix --ignore-path .gitignore ."
   },
   "engines": {
     "node": "12.18.1"
