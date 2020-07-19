@@ -97,6 +97,20 @@ npm i
 npm run download
 ```
 
+### Linting
+
+Para ejecutar el linting correr:
+
+```
+npm run lint
+```
+
+### Formatear al guardar en VSCode
+
+Si deseas que Prettier se encargue automaticamente de formatear el código al guardar, asegurate de habilitar la opción **"editor.formatOnSave": true** en las preferencias de VSCode.
+
+
+
 ## Proximos pasos
 
 - Refactorizar código para centralizar los selectores usados y usarlos como constantes. También hay código repetido que se puede centralizar en funciones comunes.
