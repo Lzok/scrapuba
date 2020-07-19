@@ -4,6 +4,7 @@
   "description": "Scrapper to get information and available public resources from the UBA's Virtual Campus.",
   "main": "index.js",
   "dependencies": {
+    "pino": "^6.3.2",
     "puppeteer": "^4.0.0"
   },
   "devDependencies": {

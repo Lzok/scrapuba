@@ -1,4 +1,5 @@
 const puppeteer = require('puppeteer');
+const logger = require('pino')();
 
 const completeData = require('./data/crawled.json');
 const { downloadWithElementHandle } = require('./utils/download');
@@ -56,7 +57,7 @@ const prepareDataToDownload = (grossData) => {
 
           //  If no elements match the selector, the return value resolves to []
           const downloadFolderLinks = await page.$$(DOWNLOAD_FOLDER_SELECTOR);
-          console.log('Direct folders to download: ', downloadFolderLinks.length);
+          logger.info(`Direct folders to download: ${downloadFolderLinks.length}`);
           if (downloadFolderLinks.length) {
             for (const el of downloadFolderLinks) {
               await downloadWithElementHandle(
@@ -69,7 +70,9 @@ const prepareDataToDownload = (grossData) => {
           }
 
           const foldersToDownload = await page.$$(SELECTOR_FOLDER_MATERIAL);
-          console.log('Folders to navigate and then download quantity: ', foldersToDownload.length);
+          logger.info(
+            `Folders to navigate and then download quantity: ${foldersToDownload.length}`
+          );
           if (foldersToDownload.length) {
             for (const el of foldersToDownload) {
               const tabHref = await el.evaluate((p) => p.href);
@@ -113,7 +116,7 @@ const prepareDataToDownload = (grossData) => {
     await browser.close();
     process.exit(0);
   } catch (error) {
-    console.error(`Error: ${error}`);
+    logger.error(`Error: ${error}`);
     await browser.close();
     process.exit(1);
   }

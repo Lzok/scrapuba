@@ -1,12 +1,13 @@
 const fs = require('fs');
 const path = require('path');
+const logger = require('pino')();
 
 const { sleep } = require('./common');
 
 const fsPromises = fs.promises;
 
 const waitForFileToDownload = async (downloadPath) => {
-  console.log(`Checking to download file in ${downloadPath}...`);
+  logger.info(`Checking to download file in ${downloadPath}...`);
   let filename;
 
   try {
@@ -26,7 +27,7 @@ const download = async (page, selector, pathToDownload) => {
 
   try {
     await fsPromises.mkdir(downloadPath, { recursive: true });
-    console.log('Downloading file to:', downloadPath);
+    logger.info(`Downloading file to: ${downloadPath}`);
     await page._client.send('Page.setDownloadBehavior', { behavior: 'allow', downloadPath });
     await page.click(selector);
     const filename = await waitForFileToDownload(downloadPath);
@@ -42,7 +43,7 @@ const downloadWithElementHandle = async (page, elemHandle, pathToDownload) => {
 
   try {
     await fsPromises.mkdir(downloadPath, { recursive: true });
-    console.log('Downloading file to:', downloadPath);
+    logger.info(`Downloading file to: ${downloadPath}`);
     await page._client.send('Page.setDownloadBehavior', { behavior: 'allow', downloadPath });
     await elemHandle.click();
     const filename = await waitForFileToDownload(downloadPath);

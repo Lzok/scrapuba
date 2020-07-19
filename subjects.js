@@ -1,5 +1,7 @@
 const fs = require('fs');
 const puppeteer = require('puppeteer');
+const logger = require('pino')();
+
 const { sleep } = require('./utils/common');
 const { NOTALLOWEDMSG, NOTALLOWEDMSGEN, NOTALLOWEDMSGFORM } = require('./utils/constants');
 
@@ -39,7 +41,7 @@ const needLogIn = async (page) => {
 
   if (loginForm || loginMsg) {
     const url = await page.url();
-    console.log(`${url} needs to be logged in.`);
+    logger.info(`${url} needs to be logged in.`);
     return true;
   }
 
@@ -61,7 +63,7 @@ const needLogIn = async (page) => {
       for (const periods of year.periods) {
         for (const periodContent of periods.content) {
           await page.goto(periodContent.href);
-          console.log(`Processing ${periodContent.href}`);
+          logger.info(`Processing ${periodContent.href}`);
 
           // Another interesting approach where you can wait for multiple things.
           // await page.waitFor(() => !!document.querySelector('.foo'));
@@ -106,7 +108,7 @@ const needLogIn = async (page) => {
     await browser.close();
     process.exit(0);
   } catch (error) {
-    console.error(`Error: ${error}`);
+    logger.error(`Error: ${error}`);
     process.exit(1);
   }
 })();
